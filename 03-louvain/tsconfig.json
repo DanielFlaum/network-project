@@ -1,0 +1,12 @@
+{
+    "include": ["source/**/*.ts"],
+    "compilerOptions": {
+        "target": "ES2021",
+        "module": "ES2022",
+        "strict": true,
+        "outDir": "target",
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+    }
+}
